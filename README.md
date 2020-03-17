@@ -65,12 +65,6 @@ There are two versions of this repository - written using **TFLearn** and **Kera
 
 * The emotion with maximum score is displayed on the screen.
 
-## Example Outputs
-
-![One face](examples/happy.png)
-
-![Mutiface](examples/multiface.png)
-
 ## References
 
 * "Challenges in Representation Learning: A report on three machine learning contests." I Goodfellow, D Erhan, PL Carrier, A Courville, M Mirza, B
